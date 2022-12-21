@@ -3,6 +3,8 @@ import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 import { Avatar } from '../../components/Avatar/Avatar';
 
+// dh
+
 export default {
     title: 'Component/Avatar',
     component: Avatar,
