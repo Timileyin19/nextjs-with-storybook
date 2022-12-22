@@ -9,7 +9,8 @@
     "test": "next test",
     "lint": "next lint",
     "storybook": "start-storybook -p 6006 -s ./public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "chromatic": "npx chromatic --project-token=5ea5128bf228"
   },
   "dependencies": {
     "@storybook/jest": "^0.0.10",
@@ -43,5 +44,7 @@
     "css-loader": "^6.7.3",
     "sass-loader": "^13.2.0",
     "style-loader": "^3.3.1"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "vtuportal@0.1.0"
 }
